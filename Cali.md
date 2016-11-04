@@ -16,4 +16,4 @@ La pesquería de abulón comenzó cuando migrantes chinos arribaron a las costas
 
 <img src="https://github.com/EstrellaC/Nov2016/blob/master/abalone%20cali.png?raw=true" / width = 80%>
 
-<p align="center"> Figura 1. Pesquería de abulón en California, EUA.</p>
+<p align="center"> Figura 1. Pesquería de abulón en California, EUA  (1916-1986).</p>
