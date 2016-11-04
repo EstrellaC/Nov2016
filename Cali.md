@@ -14,5 +14,6 @@ Debido a su rudimentaria y poco eficiente extracción, la pesquería del recurso
 
 Es hasta 1880 fue que se establece un consulado en San Diego para llevar registro de la pesquería, así como una licencia expedida por el gobierno mexicano. Sin embargo veinte años después, en 1990, la disponibilidad del recurso se vio limitada a organismos de aguas profundas, y debido a que los chinos no contaban con buceadores, esto dio entrada a los japoneses quienes trabajaban fuera del intermareal en aguas frías.  
 
-<img src="https://github.com/EstrellaC/Nov2016/blob/master/abalone%20cali.png?raw=true" / width = 50%>
-*Figura 1.* Pesquería de abulón en California, EUA.
+<img src="https://github.com/EstrellaC/Nov2016/blob/master/abalone%20cali.png?raw=true" / width = 80%>
+
+**Figura 1.** Pesquería de abulón en California, EUA.
