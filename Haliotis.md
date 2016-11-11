@@ -22,6 +22,5 @@ También los patrones de bandeo de los genes lisina y  hemocianina permiten iden
 <img src="https://github.com/EstrellaC/Nov2016/blob/master/haliotis.png?raw=true" / width = 50%>
 
 <img src="http://www.jaxshells.org/image%20snail12/2432.jpg" / width = 20%>
-
 <img src="http://calphotos.berkeley.edu/imgs/512x768/0000_0000/0107/1960.jpeg" / width = 20%>
 <img src="http://week.divebums.com/Nov28-2005/abalone_kevin-lee.jpg" / width = 20%>
