@@ -8,9 +8,9 @@
 <img src="http://cdn.encuentos.com/wp-content/uploads/2011/10/la-estrella-malula.gif" / width = 5%>
 
 
-Como objetivos el estudio pretende identificar genes y maracadores moleculares para distinguir tres especies de *Haliotis* del Norte del Pacífico, observando las diferencias en los patrones de bandeo resultante de previas digestiones con enzimas de restricción. Para ello utilizó las secuencias satelitales *Sal* l y los genes 18S-5.8S- 28S rDNA, gen  lisina y gen hemocianina.
+Como objetivos el estudio pretende identificar genes y marcadores moleculares para distinguir tres especies de *Haliotis* del Norte del Pacífico, observando las diferencias en los patrones de bandeo resultante de previas digestiones con enzimas de restricción. Para ello utilizó las secuencias satelitales *Sal* l y los genes 18S-5.8S- 28S rDNA, gen  lisina y gen hemocianina.
 
-Utilizando una base de datos de NCBI, se alinearon las secuancias de *H. rufescens*, *H. fulgens* y *H. corrugata*. El satélite de *H. rufescens* se alineó con el de las otras dos especies, obteniendo como resultado un 88% y 87% de similitud respectivamente. Lo que les permitió especular el tamaño del fragmento esperado para las enzimas de restricción.
+Utilizando una base de datos de NCBI, se alinearon las secuencias de *H. rufescens*, *H. fulgens* y *H. corrugata*. El satélite de *H. rufescens* se alineó con el de las otras dos especies, obteniendo como resultado un 88% y 87% de similitud respectivamente. Lo que les permitió especular el tamaño del fragmento esperado para las enzimas de restricción.
 
 Como resultado, obtuvo que el satélite permite identificar a cada especie, además de permitirle identificar cuatro especies de abulón Japonés. Además el uso de enzimas de restricción *Hae* II y *Mbo* I permiten diferenciar entre las tres especies del Pacífico, lo que permitirá la certificación de productos enlatados. 
 
