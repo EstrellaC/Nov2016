@@ -22,3 +22,5 @@ La manera de obtener información de estos lugares es realizando mediciones de l
 Los datos obtenidos de más de 400 conchas ofrecen la prueba de que los organismos extraídos eran juveniles con tallas desde los 36 mm hasta los 176 mm. 
 
 Lamentablemente, la sobre explotación comercial así como otras pesquerías marinas han alterado las relaciones ecológicas, lo que no ha permitido una recuperación optima del recurso a pesar de las legislaciones.
+
+<img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQbusY6tfQNWcEoVQmECVnUDghQWcrJWBEj7bDk21AhWJwzMxvF" / width = 30%>
