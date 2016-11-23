@@ -6,7 +6,7 @@
 
 ####Historical Archaeology, Vol. 41, 117-128, 2007
 
-**Por:** Córdova Secuendino Paola Estrella 
+**Por:** Córdova Secundino Paola Estrella 
 <img src="http://cdn.encuentos.com/wp-content/uploads/2011/10/la-estrella-malula.gif" / width = 5%>
 
 En alta California para 1853 se estimaba un aproximado de 600 pescadores de abulón con nacionalidad china, sin embargo a finales de 1880 fue cuando las agencias gubernamentales en California establecieron una talla de extracción. Entonces para conocer un poco de la historia  de la distribución, estructura y especies explotadas, se evaluaron  los vertederos de conchas de abulón en sitios de asentamientos de campos abuloneros a lo largo de Alta y Baja California.  
