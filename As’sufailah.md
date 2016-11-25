@@ -26,4 +26,4 @@ Finalmente se dio seguimiento al desarrollo de las larvas hasta llegar a semilla
 
 <img src="https://github.com/EstrellaC/Nov2016/blob/master/H%20mariae.png?raw=true" / width = 50%>
 
-Transcurridos 13 meses lograron obtener juveniles de tallas de 52.9 mm, con un crecimiento promedio de 4.1 mm por mes utilizando ditas formuladas además de algas frescas y congeladas. Sin embargo como ya se ha documentado en otras especies la tasa de supervivencia larval fue baja, por lo cual proponen estudios que den seguimiento a la estandarización de protocolos que garanticen una el desarrollo de la acuicultura comercial de *H. mariae*.
+Transcurridos 13 meses lograron obtener juveniles de tallas de 52.9 mm, con un crecimiento promedio de 4.1 mm por mes utilizando ditas formuladas además de algas frescas y congeladas. Sin embargo como ya se ha documentado en otras especies la tasa de supervivencia larval fue baja, por lo cual proponen estudios que den seguimiento a la estandarización de protocolos que garanticen el desarrollo de la acuicultura comercial de *H. mariae*.
