@@ -18,3 +18,4 @@ La identificación morfológica se realizó con machos, de los cuales se tomaron
 Considerando el primer año que se observó a M. pruinosa, se asocia con  la importación de plántulas de  América del Norte, Italia y Francia. Por lo tanto, la población Corea puede estar más cerca de la de Italia en lugar de España en base a los datos de exportación. Sin embargo este estudio mostró que la población de Corea es más cercana a la población Europea según lo determinado por la distancia genética. El haplotipo predominantemente observado 'Hap_1 el cual también apoya el resultado.
 
 <img src="http://ars.els-cdn.com/content/image/1-s2.0-S1226861515000564-gr2.jpg" / width = 50%>
+Figura 1.Reconstructed phylogenetic tree by neighbor-joining tree based on the genetic relationship among M. pruinosa populations. Scale bar represents the nucleotide substitution rate per site.
